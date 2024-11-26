@@ -1,6 +1,6 @@
 # Express-TypeScript-Template
 
-*A template for Express server written in TypeScript 🤔* The template's aim was for a minimal, unopinionated Express-TypeScript experience, therefore I decided to not include any testing tools, feel free to use it with whatever works best for you.
+*A template for Express server written in TypeScript 🤔* The template's aim was for a minimal, unopinionated Express-TypeScript experience, therefore I decided to not include any testing tools, feel free to use it with whatever works best for you. This repository structure can be deployed straight to Vercel without issues.
 
 ## Getting Started
 You can choose *either* generate a project from the template (recommended way) or clone it:
